@@ -59,6 +59,6 @@ async def on_message(message):
                     await message.channel.send("**The chat has ended.**")
                     break
 
-client.run('NzQxNDYyOTU3MjcxMTU0ODEw.Xy37MA.H0ehX2Jrj5j6N8CQjzgUVVnMVXI')
+client.run('XXXXXXXXXXXXXXXXXXXXXXXXX')
 
 
